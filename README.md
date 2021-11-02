@@ -26,3 +26,5 @@ Contador de visitas com persistência em arquivo de texto.
 <!-- 2021-11-02 15:08 -->
 
 <!-- 2021-11-02 15:08 -->
+
+<!-- 2021-11-02 15:08 -->
